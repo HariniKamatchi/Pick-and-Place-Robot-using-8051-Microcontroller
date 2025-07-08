@@ -75,7 +75,7 @@ Port to a more powerful MCU (STM32 / Arduino)
 
 🎨 [**Mridula Beshi**](https://github.com/mridulabeshi) – App queen and Bluetooth whisperer.
 
-🧪 Kiran Pradha – Debugger, tester, and the calm in our code storm.
+🧪 [**Kiran Pradha**](https://github.com/Kiran-Pradha) – Debugger, tester, and the calm in our code storm.
 
 📜 License
 
